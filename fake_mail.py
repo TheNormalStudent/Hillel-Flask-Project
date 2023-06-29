@@ -1,0 +1,1 @@
+fake_mails = ['mail.com', 'gmail.com', 'glant.net', 'astoncity.biz', 'yahoo.bh', 'britishcouncil.org', 'beachhotelbern.com']
