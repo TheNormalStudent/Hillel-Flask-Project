@@ -172,5 +172,6 @@ def delete_phones():
 
 
 if __name__ == '__main__':
+    print("git check")
     app.run(host = '0.0.0.0')
 
